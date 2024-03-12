@@ -1,0 +1,7 @@
+@font-face {
+   font-family: 'terminus (ttf)';;
+   src: url(../assets/TerminusTTF-4.49.3.ttf);
+}
+.terminus * {
+   font-family: 'terminus (ttf)', sans-serif;
+}
